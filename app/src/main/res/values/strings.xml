@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Facebook App</string>
+    <string name="app_name">Galery App</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
@@ -13,4 +13,6 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="facebook_app_id">952264811580739</string>
+    <string name="fb_login_protocol_scheme">fb952264811580739</string>
 </resources>
